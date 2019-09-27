@@ -1,0 +1,10 @@
+__pycache__/*
+.ipynb_checkpoints/*
+faces/*
+output/*
+videos/*
+.vscode/*
+.sock
+*.jpg
+
+models/goturn.caffemodel
